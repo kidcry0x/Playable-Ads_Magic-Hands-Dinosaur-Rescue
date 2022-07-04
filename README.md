@@ -2,8 +2,8 @@
 
 # Magic Hands: Dinosaur Rescue
 
-- _Engine/Framework/Library_: Pixi.Js, Cocos Creator, PlayCanvas, Unity Tiny, Phaser, Three.js, Babylon.js, Cannon.js,...VanillaJS
-- _Ad Network_: Mintegral, Ironsource, Unity, Applovin, Google, Pangle, Vungle, Facebook, Adcolony, TikTok...
+- **_Engine/Framework/Library_**: Pixi.Js, Cocos Creator, PlayCanvas, Unity Tiny, Phaser, Three.js, Babylon.js, Cannon.js,...VanillaJS
+- **_Ad Network_**: Mintegral, Ironsource, Unity, Applovin, Google, Pangle, Vungle, Facebook, Adcolony, TikTok...
 - _Single HTML file_
 
 ## Link Game
