@@ -1,9 +1,11 @@
 # Playable-Ads_Magic-Hands-Dinosaur-Rescue
 
-##Link Game
+## Link Game
 
-- [Link Google Play](https://play.google.com/store/apps/details?id=magichand.negaxy.dinosaur)
-- [Link App Store](https://apps.apple.com/app/id1619537659)
-  ##Link Demo Playable Ads
-- [**Demo Playable Ads ver 1**]()
-- [**Demo Playable Ads ver 1**]()
+- [Link: Google Play](https://play.google.com/store/apps/details?id=magichand.negaxy.dinosaur)
+- [Link: App Store](https://apps.apple.com/app/id1619537659)
+
+## Link Demo Playable Ads
+
+- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_Magic-Hands-Dinosaur-Rescue/ver1/PA_MagicHands_V1.min.html)
+- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_Magic-Hands-Dinosaur-Rescue/ver2/PA_MagicHands_V2.min.html)
