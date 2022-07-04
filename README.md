@@ -8,9 +8,9 @@
 
 ## Demo Playable Ads
 
-- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_Magic-Hands-Dinosaur-Rescue/PlayableAds_Magic_Hands_V1/PA_MagicHands_V1.min.html/)
+- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_Magic-Hands-Dinosaur-Rescue/PlayableAds_Magic_Hands_V1/PA_MagicHands_V1.min.html)
 
-- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_Magic-Hands-Dinosaur-Rescue/PlayableAds_Magic_Hands_V2/PA_MagicHands_V2.min.html/)
+- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_Magic-Hands-Dinosaur-Rescue/PlayableAds_Magic_Hands_V2/PA_MagicHands_V2.min.html)
 
 ## Link Game
 
